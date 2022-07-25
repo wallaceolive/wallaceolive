@@ -1,6 +1,6 @@
-### Olá!! Eu sou o Wallace Oliveira 
+## Olá!! Eu sou o Wallace Oliveira 👋
 - 🔭 Hoje,  professor e Full Stack Developer.
-- 🌱 Estudando ReactJS e ReactNative.
+- 🌱 Conhecimento em ReactJS e React Native.
 
 <div align="center">
   <a href="https://github.com/wallaceolive">
