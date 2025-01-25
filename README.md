@@ -1,4 +1,13 @@
-# João Silva - Desenvolvedor Full-Stack 👨‍💻
+# Wallace Oliveira dos Santos- Desenvolvedor Full-Stack 👨‍💻
+
+<h1 align="center">
+  Hello World 👋
+</h1>
+
+<div align="center">
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
 
 ## Sobre Mim
 Sou um desenvolvedor full-stack com experiência sólida em **C#**, **React**, **Java**, **Python**, e outras tecnologias. Tenho paixão por criar soluções escaláveis e eficientes, tanto no front-end quanto no back-end, além de ser fã de aprender novas ferramentas e frameworks. 🚀
