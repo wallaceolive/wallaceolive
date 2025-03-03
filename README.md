@@ -9,10 +9,6 @@
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
-----------------
-
-# Wallace Oliveira dos Santos- Desenvolvedor Full-Stack 👨‍💻
-
 ### Olá! Eu sou Wallace Oliveira, um desenvolvedor full-stack apaixonado por resolver problemas e criar soluções escaláveis. Com experiência em **C#**, **React**, **Java**, **Python**, entre outras tecnologias, busco sempre me aprimorar e estar atualizado com as melhores práticas do mercado.
 
 ---
