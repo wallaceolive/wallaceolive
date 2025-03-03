@@ -48,9 +48,12 @@ Tenho mais de 5 anos de experiência como professsor-desenvolvedor, atuando tant
 
 Aqui estão minhas contribuições mais recentes:
 
-<div align="center">
-  ![Snake animation](https://github.com/wallaceolive/wallaceolive/blob/output/github-contribution-grid-snake.svg)
-</div>
+<picture> 
+csource media" (prefers-culur-scheme: dark)" srcset="https://raw.githubusercontent.com/wallaceolive/wallaceolive/output/github-contribution-grid-snake-dark.svg"> 
+<source media" (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wallaceolive/wallaceolive/output/github-contribution-grid-snake.svg"> 
+cing alt github contribution grid snake animation" src="https://raw.githubusercontent.com/wallaceolive/wallaceolive/output/github-contribution-grid-snake.svg"> 
+</picture> 
+<br><br
 
 ---
 
