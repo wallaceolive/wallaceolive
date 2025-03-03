@@ -15,6 +15,9 @@ jobs:
           github_user_name: wallaceolive
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Verificar conteúdo do arquivo SVG gerado
+        run: cat dist/github-contribution-grid-snake.svg
+
       - name: Commit e push do resultado
         uses: crazy-max/ghaction-github-pages@v3
         with:
